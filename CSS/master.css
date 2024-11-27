@@ -49,10 +49,6 @@ section {
     background-image: url("../Pictures/Pic1.svg");
     background-repeat: no-repeat;
     background-position: 100% 60%;
-    transition: 2s ease-in-out;
-}
-.main:hover {
-    transform: translateY(-20px);
 }
 
 .main h2 {
